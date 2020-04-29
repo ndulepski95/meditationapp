@@ -138,11 +138,11 @@
   
     position: absolute;
   
-    height: 50%;
+    height: 52%;
   
-    top: 50%;
+    top: 48%;
   
-    left: 49%;
+    left: 50%;
   
     transform: translate(-50%, -50%) rotate(-90deg);
   
@@ -180,6 +180,6 @@
   
     width: 100%;
   
-    z-index: -10;
+    z-index: -5;
   
   }
